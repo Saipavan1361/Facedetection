@@ -6,6 +6,6 @@ This contains a py file that can detect faces from the camera.
       -python / python --version
    (Note:- while installing the python add file to your path must be selected)
 
-2-Install OpenCV -
+2-Install OpenCV
       - pip install opencv-python
 
